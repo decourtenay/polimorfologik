@@ -1,0 +1,13 @@
+111111;proper_noun;szkoła podstawowa im. Stanisława Moniuszki
+111111;common_noun;drachma płynna
+111111;common_noun;imperialna łyżeczka deserowa
+111111;common_noun;łyżeczka amerykańska
+111111;common_noun;kwarta amerykańska
+111111;common_noun;amerykańska łyżka stołowa
+111111;common_noun;mila na galon
+111111;common_noun;galon amerykański
+111111;common_noun;amerykańska pinta mokra
+111111;common_noun;mila na sekundę
+111111;common_noun;stopa sześcienna na sekundę
+111111;common_noun;amerykańska uncja cieczy
+111111;common_noun;centymetr kwadratowy
